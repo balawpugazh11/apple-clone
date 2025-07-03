@@ -7,6 +7,7 @@ import Hero from "./Components/Hero";
 import Hero2 from "./Components/Hero2";
 import Hero3 from "./Components/Hero3";
 import Products from "./Components/Products";
+import ProductBanner from "../productBanner";
 import Movieposter from "./Components/MoviePoster";
 import Footer from "./Components/Footer";
 
