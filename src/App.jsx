@@ -7,6 +7,7 @@ import Hero3 from "./components/Hero3";
 import Products from "./components/Products";
 // import ProductBanner from "./components/ProductBanner";
 import Movieposter from "./components/MoviePoster";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Products />
         {/* <ProductBanner /> Removed to prevent crash */}
         <Movieposter />
+        <Footer />
         <h1 className="text-4xl font-bold text-center mt-20">Apple Clone</h1>
         <p className="text-center mt-4">If you can see this, the app is working!</p>
       </div>
