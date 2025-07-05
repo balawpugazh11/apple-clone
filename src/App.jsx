@@ -4,6 +4,7 @@ import PromoBanner from "./components/PromoBanner";
 import Hero from "./components/Hero";
 import Hero2 from "./components/Hero2";
 import Hero3 from "./components/Hero3";
+import Products from "./components/Products";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Hero />
         <Hero2 />
         <Hero3 />
+        <Products />
         <h1 className="text-4xl font-bold text-center mt-20">Apple Clone</h1>
         <p className="text-center mt-4">If you can see this, the app is working!</p>
       </div>
