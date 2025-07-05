@@ -1,4 +1,4 @@
-import ProductBanner from "../productBanner";
+import ProductBanner from "../ProductBanner";
 import Airpods from "../../assets/airpods.jpg";
 import ipad from "../../assets/ipad_air.jpg";
 import iphone from "../../assets/iphone.jpg";

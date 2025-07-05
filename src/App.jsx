@@ -1,15 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./App.css";
-import AppleNavbar from "./Components/Navbar";
-import PromoBanner from "./Components/PromoBanner";
-import Hero from "./Components/Hero";
-import Hero2 from "./Components/Hero2";
-import Hero3 from "./Components/Hero3";
-import Products from "./Components/Products";
-import ProductBanner from "../productBanner";
-import Movieposter from "./Components/MoviePoster";
-import Footer from "./Components/Footer";
+import AppleNavbar from "./components/Navbar";
+import PromoBanner from "./components/PromoBanner";
+import Hero from "./components/Hero";
+import Hero2 from "./components/Hero2";
+import Hero3 from "./components/Hero3";
+import Products from "./components/Products";
+import ProductBanner from "./components/ProductBanner";
+import Movieposter from "./components/MoviePoster";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
         <Hero2 />
         <Hero3 />
         <Products />
+        <ProductBanner />
         <Movieposter />
         <Footer />
       </div>
